@@ -1,0 +1,1 @@
+def read_from_file(filename="my_notes.txt")
