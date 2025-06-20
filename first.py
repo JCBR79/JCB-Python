@@ -1,0 +1,5 @@
+print("hello")
+print("Hello")
+print("Hello1")
+print("This is fun")
+print("1+5")
